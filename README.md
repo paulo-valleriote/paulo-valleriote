@@ -2,7 +2,7 @@
 🔭 I’m currently studiyng software development at Cubos Academy<br>🌱 Learning react and node.js<br>⚡ Fun fact: I started studiyng programming because I wanted to make an online rpg dice roller and fell in love with the profession
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulovalleriote/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulovalleriote/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=paulo-valleriote&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
