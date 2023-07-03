@@ -5,9 +5,9 @@
 
 - 🌱 Atualmente POO e conceitos de arquitetura capturaram minha atenção, tenho estudado **Java, Spring Framework, NestJS e Clean Architecture**
 
-- 📫 Você pode fazer contato comigo através de **paulomv29@outlook.com**
+- 📫 Você pode fazer contato comigo através do meu **[email](paulomv29@outlook.com)**
 
-- 📄 Saiba mais sobre minhas experiências [https://docs.google.com/document/d/e/2PACX-1vQbloLqw23_XiLy0JAxbaE_pV-uaKOm4zq7bjklZ2NuugkOckaG9fiXZ-tAZP2m8LIYRAyE-TftkXwS/pub](https://docs.google.com/document/d/e/2PACX-1vQbloLqw23_XiLy0JAxbaE_pV-uaKOm4zq7bjklZ2NuugkOckaG9fiXZ-tAZP2m8LIYRAyE-TftkXwS/pub)
+- 📄 Saiba mais sobre minhas experiências [aqui](https://docs.google.com/document/d/e/2PACX-1vQbloLqw23_XiLy0JAxbaE_pV-uaKOm4zq7bjklZ2NuugkOckaG9fiXZ-tAZP2m8LIYRAyE-TftkXwS/pub)
 
 - ⚡ Além da Programação, minhas maiores paixões são **RPG's de mesa ( DnD, Call of Cthulhu, Pathfinder ) e The Witcher**
 
