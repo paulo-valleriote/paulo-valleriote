@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou envolvido no desenvolvimento back-end do projeto BackToMe ( Repositório Privado )
 
-- 🌱 Atualmente POO e conceitos de arquitetura capturaram minha atenção, tenho estudado **Java, Spring Framework, NestJS**
+- 🌱 Atualmente POO e conceitos de arquitetura capturaram minha atenção, tenho estudado **Java, Spring Framework, NestJS e Clean Architecture**
 
 - 📫 Você pode fazer contato comigo através de **paulomv29@outlook.com**
 
