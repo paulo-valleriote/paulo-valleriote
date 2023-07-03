@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Meu nome é Paulo Valleriote</h1>
 <h3 align="center">Desenvolvedor Full Stack com foco em Back End</h3>
 
-- 🔭 Atualmente estou envolvido no desenvolvimento back-end do projeto [BackToMe]([privado])
+- 🔭 Atualmente estou envolvido no desenvolvimento back-end do projeto BackToMe ( Repositório Privado )
 
 - 🌱 Atualmente POO e conceitos de arquitetura capturaram minha atenção, tenho estudado **Java, Spring Framework, NestJS**
 
