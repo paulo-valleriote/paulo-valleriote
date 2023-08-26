@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Meu nome é Paulo Valleriote</h1>
 <h3 align="center">Desenvolvedor Full Stack com foco em Back End</h3>
 
-- 🔭 Atualmente estou envolvido no desenvolvimento back-end do projeto BackToMe ( Repositório Privado )
+- 🔭 Desenvolvedor Full Stack na SG Desenvolvimento
 
-- 🌱 Atualmente POO e conceitos de arquitetura capturaram minha atenção, tenho estudado **Java, Spring Framework, NestJS e Clean Architecture**
+- 🌱 Certificado 1x pela AWS
 
 - 📫 Você pode fazer contato comigo através do meu **[email](paulomv29@outlook.com)**
 
