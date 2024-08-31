@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Meu nome é Paulo Valleriote</h1>
 <h3 align="center">Desenvolvedor Full Stack com foco em Back End</h3>
 
-- 🔭 Desenvolvedor Full Stack na SG Desenvolvimento
+- 🔭 Desenvolvedor Full Stack na Infratoken
 
 - 🌱 Certificado 1x pela AWS
 
