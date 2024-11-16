@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Meu nome é Paulo Valleriote</h1>
 <h3 align="center">Desenvolvedor Full Stack com foco em Back End</h3>
 
-- 🔭 Desenvolvedor Full Stack
+- 🔭 Desenvolvedor Full Stack | NodeJS | React | Java | Spring Framework (SpringBoot, etc)
 - 🌱 Certificado 1x pela AWS
 
 - 📫 Você pode fazer contato comigo através do meu **[email](paulomv29@outlook.com)**
